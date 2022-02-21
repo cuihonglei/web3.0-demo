@@ -4,7 +4,7 @@ Smart Contract study demo code.
 
 # Tech Stack
 
-*. React
-*. Tailwind CSS
-*. Solidity
-*. Hardhat
+*. React  
+*. Tailwind CSS  
+*. Solidity  
+*. Hardhat  
